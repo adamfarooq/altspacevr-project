@@ -1,0 +1,13 @@
+This project uses the following items from Poly (http://poly.google.com):
+
+Title: Green mountain
+Author: Poly by Google
+URL: https://poly.google.com/view/3NvfPMBZrBQ
+License: Creative Commons CC-BY
+https://creativecommons.org/licenses/by/3.0/legalcode
+
+Title: Tree
+Author: Poly by Google
+URL: https://poly.google.com/view/6pwiq7hSrHr
+License: Creative Commons CC-BY
+https://creativecommons.org/licenses/by/3.0/legalcode
